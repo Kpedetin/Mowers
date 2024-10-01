@@ -39,7 +39,7 @@ public class Lawn {
 	}
 
 	/**
-	 * Update into the referential the orientation of a mower
+	 * Update into the referential the orientation of specific a mower
 	 *
 	 * @param nameMower mower name
 	 * @param orientation new orientation
